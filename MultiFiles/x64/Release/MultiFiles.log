@@ -1,0 +1,19 @@
+﻿  Atom.cpp
+  distance.cpp
+  EM.cpp
+  Epsil.cpp
+  exitfiles.cpp
+  fields.cpp
+  Molecule.cpp
+  OpenFiles.cpp
+F:\source\repos\MD\нанотор в кубе 5нм + Кулон\MultiFiles\OpenFiles.cpp(52,23): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  ReadFile.cpp
+  Source.cpp
+  tenzors.cpp
+  urvrwr.cpp
+  moments_of_forces.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 420 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  MultiFiles.vcxproj -> F:\source\repos\MD\нанотор в кубе 5нм + Кулон\x64\Release\MultiFiles.exe
